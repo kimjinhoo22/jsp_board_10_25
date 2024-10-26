@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Users\kimje\Desktop\Work\workspace_intelij\jsp_projects\JSP_board\src\webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/kimje/Desktop/Work/workspace_intelij/jsp_projects/JSP_board/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>
